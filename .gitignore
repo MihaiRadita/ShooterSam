@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+!ShooterSam Game/
+!ShooterSam Game/**
+*.pdb
+Saved/*
+ShooterSam/Saved/*

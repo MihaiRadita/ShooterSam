@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\unrealeditor\\inc\\shootersam\\uht\\sidescrollinginteractable.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\x64\\shootersameditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootersam\\definitions.shootersam.h",
+            "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\source\\shootersam\\variant_sidescrolling\\interfaces\\sidescrollinginteractable.h",
+            "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\unrealeditor\\inc\\shootersam\\uht\\sidescrollinginteractable.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

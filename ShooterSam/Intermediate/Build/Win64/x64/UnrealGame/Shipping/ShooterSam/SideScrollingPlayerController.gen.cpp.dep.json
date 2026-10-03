@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\unrealgame\\inc\\shootersam\\uht\\sidescrollingplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\x64\\shootersam\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\shootersam\\definitions.shootersam.h",
+            "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\source\\shootersam\\variant_sidescrolling\\sidescrollingplayercontroller.h",
+            "d:\\program files\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "d:\\program files\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\program files\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\program files\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealgame\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealgame\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "d:\\program files\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealgame\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealgame\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\unrealgame\\inc\\shootersam\\uht\\sidescrollingplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

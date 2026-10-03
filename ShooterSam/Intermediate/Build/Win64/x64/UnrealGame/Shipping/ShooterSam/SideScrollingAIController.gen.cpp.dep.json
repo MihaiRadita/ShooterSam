@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\unrealgame\\inc\\shootersam\\uht\\sidescrollingaicontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\x64\\shootersam\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\shootersam\\definitions.shootersam.h",
+            "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\source\\shootersam\\variant_sidescrolling\\ai\\sidescrollingaicontroller.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navagentselector.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\navagentselector.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\gameplaytasks\\classes\\gameplaytaskownerinterface.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\gameplaytasks\\public\\gameplaytasktypes.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytasks\\uht\\gameplaytaskownerinterface.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\gameplaytasks\\classes\\gameplaytask.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytasks\\uht\\gameplaytask.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "f:\\users\\mihai\\documents\\github\\shootersam\\shootersam\\intermediate\\build\\win64\\unrealgame\\inc\\shootersam\\uht\\sidescrollingaicontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
